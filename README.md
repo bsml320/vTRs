@@ -1,2 +1,2 @@
 # vTRs
-A pipeline for vTR identification
+A pipeline for vTR identification in human viruses
